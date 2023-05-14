@@ -5,6 +5,8 @@
 ---
 ### Contact me!
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/924962383514984498/)
+[<img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />](https://matrix.org)
+[<img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD">](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3dd5813ee5ac4125)
 
 ---
 ### CTF stuff
