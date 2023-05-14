@@ -1,2 +1,1 @@
-I'm too lazy to edit this file ;-;
-
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TeoSean&theme=tokyonight)
