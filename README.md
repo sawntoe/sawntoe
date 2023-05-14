@@ -7,7 +7,9 @@
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/924962383514984498/)
 
 My CTF team:
-![<img src="https://ctftime.org/static/images/ct/logo.svg">](https://ctftime.org/team/20850)
+
+[<img src="https://ctftime.org/static/images/ct/logo.svg" />](https://ctftime.org/team/20850)
+
 ---
 ### Languages
 ![badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
