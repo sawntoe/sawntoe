@@ -6,9 +6,16 @@
 ### Contact me!
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/924962383514984498/)
 
-My CTF team:
+---
+### CTF stuff
+**My CTF team:**
 
 [<img src="https://ctftime.org/static/images/ct/logo.svg" width="100px"/>](https://ctftime.org/team/20850)
+
+I main:
+- Pwn
+- Forensics
+- Misc
 
 ---
 ### Languages
