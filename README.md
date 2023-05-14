@@ -8,7 +8,7 @@
 
 My CTF team:
 
-[<img src="https://ctftime.org/static/images/ct/logo.svg" width="30px"/>](https://ctftime.org/team/20850)
+[<img src="https://ctftime.org/static/images/ct/logo.svg" width="60px"/>](https://ctftime.org/team/20850)
 
 ---
 ### Languages
