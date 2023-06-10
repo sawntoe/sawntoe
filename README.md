@@ -90,6 +90,17 @@ I'm also currently learning:
 
 **CTFs I plan on going**
 <portfolio-incomplete>
+- TyphoonCon CTF 2023
+- BSides Indore CTF 2023
+- Codegate CTF 2023 Preliminary
+- p4ctf 2023 finals
+- Google Capture The Flag 2023
+- AltayCTF 2023
+- BSidesTLV 2023 CTF
+- UIUCTF 2023
+- Crypto CTF 2023
+- Zh3r0 CTF v3 [POSTPONED]
+- CyberSecurityRumble Quals
 </portfolio-incomplete>
 
 
