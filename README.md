@@ -85,4 +85,11 @@ I'm also currently learning:
 - TAMUCTF
 - D^3 CTF
 - UMD CTF
+<portfolio-completed>
+</portfolio-completed>
+
+**CTFs I plan on going**
+<portfolio-incomplete>
+</portfolio-incomplete>
+
 
