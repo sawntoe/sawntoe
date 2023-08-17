@@ -85,10 +85,6 @@ I'm also currently learning:
 - TAMUCTF
 - D^3 CTF
 - UMD CTF
-<portfolio-completed>
-- TyphoonCon CTF 2023
-</portfolio-completed>
-
 
 **CTFs I plan on going**
 <portfolio-incomplete>
@@ -104,5 +100,3 @@ I'm also currently learning:
 - Zh3r0 CTF v3 [POSTPONED]
 - CyberSecurityRumble Quals
 </portfolio-incomplete>
-
-
