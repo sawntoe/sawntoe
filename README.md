@@ -54,8 +54,8 @@ I'm also currently learning:
 
 ### Cool Github Stats
 
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TeoSean&theme=tokyonight)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=TeoSean&theme=tokyonight)
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sawntoe&theme=tokyonight)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=sawntoe&theme=tokyonight)
 ---
 
 ### 🏆 My portfolio 🏆
